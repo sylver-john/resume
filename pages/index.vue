@@ -5,7 +5,7 @@ div.has-background-light
       .column.is-3.has-background-grey-lighter
         .block
           figure.image.is-256x256
-            img(src='/images/sylver.jpg')
+            img(src='~/static/images/sylver.jpg')
         .block
           Personnal
         .block
